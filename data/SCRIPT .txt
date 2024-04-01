@@ -1,0 +1,104 @@
+				<!--   файли з данними - полігон межа --> 
+<script src="data/Pokrovsk/ boundaries_layer_Pokrovsʹk.js"></script>
+<script src="data/Rodynske/ boundaries_layer_Rodynsʹke.js"></script>
+<script src="data/Shevchenko/ boundaries_layer_Shevchenko.js"></script>
+<script src="data/Hryshyne/ boundaries_layer_Hryshyne.js"></script>
+<script src="data/Bohdanivka/ boundaries_layer_Bohdanivka.js"></script>
+<script src="data/Dachenske/ boundaries_layer_Dachensʹke.js"></script>
+<script src="data/Zelene/ boundaries_layer_Zelene.js"></script>
+<script src="data/Lysivka/ boundaries_layer_Lysivka.js"></script>
+<script src="data/NovyyTrud/ boundaries_layer_Novyy_Trud.js"></script>
+<script src="data/Novoolenivka/ boundaries_layer_Novoolenivka.js"></script>
+<script src="data/Novopavlivka/ boundaries_layer_Novopavlivka.js"></script>
+<script src="data/Novotroyitske/ boundaries_layer_Novotroyitsʹke.js"></script>
+<script src="data/Novoukrainka/ boundaries_layer_Novoukrayinka.js"></script>
+<script src="data/Preobrazhenka/ boundaries_layer_Preobrazhenka.js"></script>
+<script src="data/Rih/ boundaries_layer_Rih.js"></script>
+<script src="data/SukhyyYar/ boundaries_layer_Sukhyy_Yar.js"></script>
+<script src="data/Troyanda/ boundaries_layer_Troyanda.js"></script>
+<script src="data/Kotlyne/ boundaries_layer_Kotlyne.js"></script>
+<script src="data/PersheTravnya/ boundaries_layer_Pershe_Travnya.js"></script>
+<script src="data/Pushkine/ boundaries_layer_Pushkine.js"></script>
+<script src="data/Chunyshyne/ boundaries_layer_Chunyshyne.js"></script>
+<script src="data/Novopustinka/ boundaries_layer_Novopustynka.js"></script>
+
+				<!--   файли з данними - полігон адрес --> 
+				
+<script src="data/Pokrovsk/addressPolygon_layer_Pokrovsʹk.js"></script>
+<script src="data/Rodynske/addressPolygon_layer_Rodynsʹke.js"></script>
+<script src="data/Shevchenko/addressPolygon_layer_Shevchenko.js"></script>
+<script src="data/Hryshyne/addressPolygon_layer_Hryshyne.js"></script>
+<script src="data/Bohdanivka/addressPolygon_layer_Bohdanivka.js"></script>
+<script src="data/Dachenske/addressPolygon_layer_Dachensʹke.js"></script>
+<script src="data/Zelene/addressPolygon_layer_Zelene.js"></script>
+<script src="data/Lysivka/addressPolygon_layer_Lysivka.js"></script>
+<script src="data/NovyyTrud/addressPolygon_layer_Novyy_Trud.js"></script>
+<script src="data/Novoolenivka/addressPolygon_layer_Novoolenivka.js"></script>
+<script src="data/Novopavlivka/addressPolygon_layer_Novopavlivka.js"></script>
+<script src="data/Novotroyitske/addressPolygon_layer_Novotroyitsʹke.js"></script>
+<script src="data/Novoukrainka/addressPolygon_layer_Novoukrayinka.js"></script>
+<script src="data/Preobrazhenka/addressPolygon_layer_Preobrazhenka.js"></script>
+<script src="data/Rih/addressPolygon_layer_Rih.js"></script>
+<script src="data/SukhyyYar/addressPolygon_layer_Sukhyy_Yar.js"></script>
+<script src="data/Troyanda/addressPolygon_layer_Troyanda.js"></script>
+<script src="data/Kotlyne/addressPolygon_layer_Kotlyne.js"></script>
+<script src="data/PersheTravnya/addressPolygon_layer_Pershe_Travnya.js"></script>
+<script src="data/Pushkine/addressPolygon_layer_Pushkine.js"></script>
+<script src="data/Chunyshyne/addressPolygon_layer_Chunyshyne.js"></script>
+<script src="data/Novopustinka/addressPolygon_layer_Novopustynka.js"></script>
+
+				<!--   файли з данними - полілінія вулиця --> 
+
+<script src="data/Pokrovsk/street_layer_Pokrovsʹk.js"></script>
+<script src="data/Rodynske/street_layer_Rodynsʹke.js"></script>
+<script src="data/Shevchenko/street_layer_Shevchenko.js"></script>
+<script src="data/Hryshyne/street_layer_Hryshyne.js"></script>
+<script src="data/Bohdanivka/street_layer_Bohdanivka.js"></script>
+<script src="data/Dachenske/street_layer_Dachensʹke.js"></script>
+<script src="data/Zelene/street_layer_Zelene.js"></script>
+<script src="data/Lysivka/street_layer_Lysivka.js"></script>
+<script src="data/NovyyTrud/street_layer_Novyy_Trud.js"></script>
+<script src="data/Novoolenivka/street_layer_Novoolenivka.js"></script>
+<script src="data/Novopavlivka/street_layer_Novopavlivka.js"></script>
+<script src="data/Novotroyitske/street_layer_Novotroyitsʹke.js"></script>
+<script src="data/Novoukrainka/street_layer_Novoukrayinka.js"></script>
+<script src="data/Preobrazhenka/street_layer_Preobrazhenka.js"></script>
+<script src="data/Rih/street_layer_Rih.js"></script>
+<script src="data/SukhyyYar/street_layer_Sukhyy_Yar.js"></script>
+<script src="data/Troyanda/street_layer_Troyanda.js"></script>
+<script src="data/Kotlyne/street_layer_Kotlyne.js"></script>
+<script src="data/PersheTravnya/street_layer_Pershe_Travnya.js"></script>
+<script src="data/Pushkine/street_layer_Pushkine.js"></script>
+<script src="data/Chunyshyne/street_layer_Chunyshyne.js"></script>
+<script src="data/Novopustinka/street_layer_Novopustynka.js"></script>
+
+				<!--   файли з данними - точка адрес--> 
+
+<script src="data/Pokrovsk/addressPoint_layer_Pokrovsʹk.js"></script>
+<script src="data/Hryshyne/addressPoint_layer_Hryshyne.js"></script>
+<script src="data/Zelene/addressPoint_layer_Zelene.js"></script>
+<script src="data/Lysivka/addressPoint_layer_Lysivka.js"></script>
+<script src="data/NovyyTrud/addressPoint_layer_Novyy_Trud.js"></script>
+<script src="data/Novopavlivka/addressPoint_layer_Novopavlivka.js"></script>
+<script src="data/Novotroyitske/addressPoint_layer_Novotroyitsʹke.js"></script>
+<script src="data/Rih/addressPoint_layer_Rih.js"></script>
+<script src="data/Kotlyne/addressPoint_layer_Kotlyne.js"></script>
+<script src="data/PersheTravnya/addressPoint_layer_Pershe_Travnya.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
